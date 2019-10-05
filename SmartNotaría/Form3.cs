@@ -41,7 +41,7 @@ namespace SmartNotaría
         int con18 = 1;
         int con19 = 1;
         int con20 = 1;
-        //88888
+        //88888 
         
 
 
